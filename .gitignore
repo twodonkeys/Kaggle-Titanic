@@ -106,6 +106,13 @@ venv.bak/
 #LZL
 *.zip
 *.idea
-*.csv
+
 *.pkl
 titanic.py
+LR.csv
+RF.csv
+XGB.csv
+gbdt.csv
+svm.csv
+vot.csv
+
